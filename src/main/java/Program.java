@@ -12,7 +12,7 @@ public class Program {
 				max=a[i];
 			}
 		}
-		System.out.println("max number="+max)
+		System.out.println("max number="+max);
 	}
 	public static void main(String[] args) {
 		
